@@ -44,7 +44,8 @@ Incluye:
 
 
 ## Video Explicativo
-🔗 [Ver video en YouTube](https://youtu.be/dC_vnWP3QOU)
+[![Ver video en YouTube](https://img.youtube.com/vi/dC_vnWP3QOU/0.jpg)](https://youtu.be/dC_vnWP3QOU)
+
 
 
 ¡Gracias por revisar este proyecto!
