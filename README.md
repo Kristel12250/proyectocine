@@ -1,4 +1,3 @@
-# proyectocine.
 # Proyecto Sistema de Películas
 
 ## Descripción
